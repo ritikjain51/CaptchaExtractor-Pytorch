@@ -1,0 +1,11 @@
+DATA_DIR = "./captcha/"
+
+BATCH_SIZE = 16
+
+IMG_WIDTH = 300
+IMG_HEIGHT = 75
+
+NUM_WORKERS = 8
+EPOCHS = 200
+
+DEVICE = "cpu"
